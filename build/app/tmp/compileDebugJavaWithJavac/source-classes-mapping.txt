@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/gameplanmobileloginscreen/BuildConfig.java
+ com.example.gameplanmobileloginscreen.BuildConfig
